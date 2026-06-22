@@ -9,4 +9,4 @@ https://gitlab.com/hajirodeon/sisfo-sppd-2026
 
 
 NB.
-Dalam menuju rilis baru... Nantikan minggu depan ya...
+Menujut tanggal rilis 27juni2026.
