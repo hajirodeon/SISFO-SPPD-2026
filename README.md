@@ -9,4 +9,4 @@ https://gitlab.com/hajirodeon/sisfo-sppd-2026
 
 
 NB.
-Menujut tanggal rilis 27juni2026.
+Menujut tanggal rilis 01juli2026.
